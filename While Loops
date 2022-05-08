@@ -1,0 +1,8 @@
+#Write while loop counting down from 10 to 0 (inclusive)
+count = 10
+print ("Let this while loop begin!")
+while count <= 10:
+  print (count);
+  count == 1
+  print (" ------------- ")
+print("We have liftoff!")
